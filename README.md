@@ -1,6 +1,6 @@
 # Recipes-Website
-The Odin Project: Recipes
+The Odin Project - Project #1: Recipes
 
-A basic recipe website, containing a main index page with links to a few recipes.
+This is a simple recipe website built as part of The Odin Project. It includes a main index page with links to three recipes. 
 
-Practicing basic HTML skills via the first assignement needed in The Odin Project.
+This project is a practice exercise for basic HTML skills.
