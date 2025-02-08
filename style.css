@@ -1,0 +1,55 @@
+h1 {
+    background-color: #CF9FFF;
+    color: #000000;
+    font-size: 35px;
+    font-family: fantasy, "Times New Roman", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-style: italic;
+}
+
+.list {
+    font-size: 22px;
+    font-family: fantasy, "Times New Roman", sans-serif;
+}
+
+.pasta {
+    color: #e0d37d
+}
+
+.omelet {
+    color: #dd930a;
+}
+
+.salmon {
+    color: #dd0b0b;
+}
+
+h2 {
+    background-color: rgb(172, 241, 172);
+    color: #000000;
+    font-size: 35px;
+    font-family: fantasy, "Times New Roman", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+p {
+    font-family: "Brush Script MT", cursive, sans-serif;
+    font-size: 20px;
+}
+
+h3, h4 {
+    color: rgb(153, 106, 5);
+    font-family: "Brush Script MT", cursive, sans-serif;
+    font-size: 25px;
+}
+
+body.omeletbody li , body.pastabody li , body.salmonbody li {
+    font-size: 20px;
+    font-family: "Brush Script MT", cursive, sans-serif;
+}
+
+.return {
+    font-size: 14px;
+}
