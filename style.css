@@ -6,15 +6,19 @@ h1 {
     font-weight: 700;
     text-align: center;
     font-style: italic;
+    padding: 10px;
+    margin: 16px;
 }
 
 .list {
-    font-size: 22px;
+    font-size: 32px;
     font-family: fantasy, "Times New Roman", sans-serif;
+    padding: 10px;
+    margin: 16px;
 }
 
 .pasta {
-    color: #e0d37d
+    color: #e0d37d;
 }
 
 .omelet {
@@ -32,6 +36,7 @@ h2 {
     font-family: fantasy, "Times New Roman", sans-serif;
     font-weight: 700;
     font-style: italic;
+    text-align: center;
 }
 
 p {
@@ -50,6 +55,18 @@ body.omeletbody li , body.pastabody li , body.salmonbody li {
     font-family: "Brush Script MT", cursive, sans-serif;
 }
 
-.return {
-    font-size: 14px;
+.return {   
+    font-size: 20px;
+    padding: 20px;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
 }
